@@ -3,5 +3,5 @@ Shopping with cms
 # Install
 ```sh
 $ npm install 
-$ node app.js
+$ npm start
 ```
